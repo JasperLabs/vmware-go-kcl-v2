@@ -12,8 +12,8 @@ require (
 	github.com/awslabs/kinesis-aggregation/go/v2 v2.0.0-20230808105340-e631fe742486
 	github.com/golang/protobuf v1.5.3
 	github.com/google/uuid v1.5.0
-	github.com/prometheus/client_golang v1.18.0
-	github.com/prometheus/common v0.46.0
+	github.com/prometheus/client_golang v1.19.0
+	github.com/prometheus/common v0.48.0
 	github.com/rs/zerolog v1.31.0
 	github.com/sirupsen/logrus v1.9.3
 	github.com/stretchr/testify v1.8.1
